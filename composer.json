@@ -1,0 +1,32 @@
+{
+    "name": "mrtehran/mrn",
+    "description": "A simple, optimized and fast library for searching music and songs from Mr. Tehran application and Mr. Tehran website (:",
+    "homepage": "https://github.com/aminrngbr1122",
+    "keywords": [
+        "Mrtehran",
+        "audio",
+        "Music",
+        "music",
+        "net",
+        "download"
+    ],
+    "readme": "The description is in the test.php file (:",
+    "version": "1.0.0",
+    "type": "libray",
+    "require": {
+        "darkphp/monster": "^1.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mrtehran\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AminRanjibar",
+            "role": "Developer",
+            "homepage": "https://github.com/aminrngbr1122"
+        }
+    ]
+}
